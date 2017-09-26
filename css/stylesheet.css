@@ -1,0 +1,7 @@
+body {
+  background-color: red;
+  width: 100vw;
+  height: 120vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
